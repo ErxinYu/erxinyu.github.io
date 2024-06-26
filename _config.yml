@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Erxin Yu(余尔鑫)"
+title                    : "Erxin Yu (余尔鑫)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
