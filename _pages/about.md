@@ -28,6 +28,9 @@ Before that, I received my B.S. and M.S. degrees in Computer Science from Jilin 
 
 # Publications
 
+1. **“CoSafe: Evaluating Large Language Model Safety in Multi-Turn Dialogue Coreference.”**, **Erxin Yu**, Jing Li, Ming Liao, Siqi Wang, Zuchen Gao, Fei Mi, Lanqing Hong, Preprint [[paper]](https://arxiv.org/pdf/2406.17626)
+1. **“RePALM: Popular Quote Tweet Generation via Auto-Response Augmentation.”**, **Erxin Yu**, Jing li, Chunpu Xu, in Findings of ACL 2024.
+1. **“PopALM: Popularity-Aligned Language Models for Social Media Trendy Response Prediction.”**, **Erxin Yu**, Jing li, Chunpu Xu, in COLING 2024 [[paper]](https://aclanthology.org/2024.lrec-main.1127/)
 1. **“Learning Semantic Textual Similarity via Topic-informed Discrete Latent Variables.”**, **Erxin Yu**, Lan Du, Yuan Jin, Zhepei Wei, Yi Chang, in EMNLP 2022 [[paper]](https://aclanthology.org/2022.emnlp-main.328/)
 1. **“Towards Unified Representations of Knowledge Graph and Expert Rules for Machine Learning and Reasoning.”**, Zhepei Wei, Yue Wang, Jinnan Li, Zhining Liu, **Erxin Yu**, Yuan Tian, Xin Wang, Yi Chang, in AACL-IJCNLP 2022 [[paper]](https://aclanthology.org/2022.aacl-main.20.pdf)
 1. **“ToHRE: A Top-Down Classification Strategy with Hierarchical Bag Representation for Distantly Supervised Relation Extraction”**, **Erxin Yu**, Wenjuan Han, Yuan Tian, Yi Chang, in Proceedings of the 28th International Conference on computational Linguistics (COLING 2020), Barcelona, Spain, December 2020. (Virtual Event). [[paper]](https://aclanthology.org/2020.coling-main.146.pdf)
