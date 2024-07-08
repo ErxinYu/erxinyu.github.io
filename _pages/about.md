@@ -13,15 +13,15 @@ Before that, I received my B.S. and M.S. degrees in Computer Science from Jilin 
 <h1 style="color: rgb(231, 65, 65);"><b>What's new:</b></h1>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
-  <b>[07/2024]</b> I will intern at Huawei Noah's Ark Lab (Shenzhen), mentored by Fei Mi and Lanqing Hong.<br>
+  <b>[07/2024]</b> I will intern at Huawei Noah's Ark Lab (Shenzhen), mentored by <a href="https://mifei.github.io/">Fei Mi</a> and <a href="https://scholar.google.com.sg/citations?user=2p7x6OUAAAAJ&hl=en">Lanqing Hong</a>.<br>
   <b>[05/2024]</b> Check our latest work on LLM coreference safety: "CoSafe: Evaluating Large Language Model Safety in Multi-Turn Dialogue Coreference".<br>
   <b>[05/2024]</b> Our paper "RePALM: Popular Quote Tweet Generation via Auto-Response Augmentation" has been accepted by Findings of ACL 2024.<br>
   <b>[02/2024]</b> Our paper "PopALM: Popularity-Aligned Language Models for Social Media Trendy Response Prediction" has been accepted by COLING 2024.<br>
   <b>[10/2022]</b> Our paper "Learning Semantic Textual Similarity via Topic-informed Discrete Latent Variables" has been accepted by EMNLP 2022.<br>
   <b>[09/2022]</b> Our paper "Towards Unified Representations of Knowledge Graph and Expert Rules for Machine Learning and Reasoning" has been accepted for presentation at AACL-IJCNLP 2022.<br>
   <b>[10/2020]</b> Our work on distantly relation extraction was accepted by <a href="https://coling2020.org/">COLING 2020</a>!<br>
-  <b>[07/2020]</b> Two papers on relation extraction was accepted by <a href="http://ickg2020.bigke.org/">IEEE ICKG 2020</a>!<br>
-  <b>[07/2019]</b> I received my B.Sc. degree from the Excellent Engineer Program in Software Engineering.<br>
+  <!-- <b>[07/2020]</b> Two papers on relation extraction was accepted by <a href="http://ickg2020.bigke.org/">IEEE ICKG 2020</a>!<br>
+  <b>[07/2019]</b> I received my B.Sc. degree from the Excellent Engineer Program in Software Engineering.<br> -->
   <b>[09/2018]</b> I will intern at Huawei Research in the following year, supervised by Dr. <a href="https://dblp.org/pid/130/0492.html">Yantao Jia</a>.<br>
   </p>
 </div>
