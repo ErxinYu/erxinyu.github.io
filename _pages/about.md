@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year PhD student in the Department of Computing at the The Hong Kong Polytechnic University, advised by Prof. [Jing Li](https://www4.comp.polyu.edu.hk/~jing1li/).
+I am currently a third-year PhD student in the Department of Computing at the The Hong Kong Polytechnic University, advised by Prof. [Jing Li](https://www4.comp.polyu.edu.hk/~jing1li/).
 Before that, I received my B.S. and M.S. degrees in Computer Science from Jilin University, where I was  supervised by Prof. [Yi Chang](http://yichang-cs.com/). During my graduate studies, I also work closely with Prof. [Lan Du](https://dulann.github.io/) from Monash University.
 
 <h1 style="color: rgb(231, 65, 65);"><b>What's new:</b></h1>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
+    <b>[09/2024]</b> Our paper "CoSafe: Evaluating Large Language Model Safety in Multi-Turn Dialogue Coreference" has been accepted by EMNLP 2024. Hope to see you in Miami. <br>
   <b>[07/2024]</b> I will intern at Huawei Noah's Ark Lab (Shenzhen), mentored by <a href="https://mifei.github.io/">Fei Mi</a> and <a href="https://scholar.google.com.sg/citations?user=2p7x6OUAAAAJ&hl=en">Lanqing Hong</a>.<br>
   <b>[05/2024]</b> Check our latest work on LLM coreference safety: "CoSafe: Evaluating Large Language Model Safety in Multi-Turn Dialogue Coreference".<br>
   <b>[05/2024]</b> Our paper "RePALM: Popular Quote Tweet Generation via Auto-Response Augmentation" has been accepted by Findings of ACL 2024.<br>
@@ -28,7 +29,7 @@ Before that, I received my B.S. and M.S. degrees in Computer Science from Jilin 
 
 # Publications
 
-1. **“CoSafe: Evaluating Large Language Model Safety in Multi-Turn Dialogue Coreference.”**, **Erxin Yu**, Jing Li, Ming Liao, Siqi Wang, Zuchen Gao, Fei Mi, Lanqing Hong, Preprint [[paper]](https://arxiv.org/pdf/2406.17626)
+1. **“CoSafe: Evaluating Large Language Model Safety in Multi-Turn Dialogue Coreference.”**, **Erxin Yu**, Jing Li, Ming Liao, Siqi Wang, Zuchen Gao, Fei Mi, Lanqing Hong, EMNLP 2024 [[paper]](https://arxiv.org/pdf/2406.17626)
 1. **“RePALM: Popular Quote Tweet Generation via Auto-Response Augmentation.”**, **Erxin Yu**, Jing li, Chunpu Xu, in Findings of ACL 2024.
 1. **“PopALM: Popularity-Aligned Language Models for Social Media Trendy Response Prediction.”**, **Erxin Yu**, Jing li, Chunpu Xu, in COLING 2024 [[paper]](https://aclanthology.org/2024.lrec-main.1127/)
 1. **“Learning Semantic Textual Similarity via Topic-informed Discrete Latent Variables.”**, **Erxin Yu**, Lan Du, Yuan Jin, Zhepei Wei, Yi Chang, in EMNLP 2022 [[paper]](https://aclanthology.org/2022.emnlp-main.328/)
