@@ -28,13 +28,13 @@ Education
 * B.Sc. in Software Engineering, [Jilin University](http://global.jlu.edu.cn/), 2015 - 2019
   * @College of Software
 
-Experience
+<!-- Experience
 ======
 * Research Intern, JD EXPLORE ACADEMY, (Feb. 2022 to Apr. 2022)
   * Focus on Image Caption Generation.
 * Research Intern, [Huawei Research](https://career.huawei.com/reccampportal/portal5/index.html), (Jul. 2018 to Aug. 2019)
   * Focus on Knowledge Graph Construction and its application .
-  * Supervisor: Dr. [Yantao Jia](https://dblp.org/pid/130/0492.html) .
+  * Supervisor: Dr. [Yantao Jia](https://dblp.org/pid/130/0492.html) . -->
 
 
 
